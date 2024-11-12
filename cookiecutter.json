@@ -1,0 +1,9 @@
+{
+    "author": "Mathieu Dugré",
+    "email": "16450132+mathdugre@users.noreply.github.com",
+    "gh_username": "mathdugre",
+    "project_slug": "Python boilerplate",
+    "description": "Boilerplate to create a new Python project",
+    "version": "0.0.0",
+    "gh_repo_slug": "{{cookiecutter.gh_username}}/{{cookiecutter.project_slug}}"
+}
